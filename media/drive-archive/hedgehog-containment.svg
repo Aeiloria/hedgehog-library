@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="2000" viewBox="0 0 1400 2000">
+<defs>
+  <radialGradient id="g" cx="50%" cy="32%" r="78%"><stop offset="0" stop-color="#ffffff" stop-opacity="0.72"/><stop offset="0.62" stop-color="#D9C7A1"/><stop offset="1" stop-color="#7A8A4A" stop-opacity="0.48"/></radialGradient>
+  <filter id="soft"><feGaussianBlur stdDeviation="10"/></filter>
+</defs>
+<rect width="100%" height="100%" fill="url(#g)"/>
+<rect x="58" y="58" width="1284" height="1884" rx="72" fill="none" stroke="#4E3A28" stroke-width="8" opacity="0.48"/>
+<rect x="92" y="92" width="1216" height="1816" rx="54" fill="none" stroke="#7A8A4A" stroke-width="4" opacity="0.65"/>
+<circle cx="700" cy="218" r="96" fill="#7A8A4A" opacity="0.22" filter="url(#soft)"/>
+<text x="700" y="252" text-anchor="middle" font-family="Georgia, serif" font-size="150" fill="#4E3A28" opacity="0.82">◍</text>
+<text x="700" y="315" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="32" letter-spacing="4" fill="#4E3A28" opacity="0.72">Ground Lantern × Boundary Lantern</text>
+<text x="700" y="430" text-anchor="middle" font-family="Georgia, serif" font-size="72" font-weight="700" fill="#4E3A28">Hedgehog Containment</text><text x="700" y="516" text-anchor="middle" font-family="Georgia, serif" font-size="72" font-weight="700" fill="#4E3A28">Archetype</text>
+<path d="M 265 805 C 420 745, 560 865, 700 805 S 980 745, 1135 805" fill="none" stroke="#7A8A4A" stroke-width="8" stroke-linecap="round" opacity="0.62"/>
+<text x="700" y="890" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="31" fill="#4E3A28" opacity="0.70">Ground Lantern Ecology</text>
+<text x="700" y="960" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="34" fill="#4E3A28" opacity="0.88">The hedgehog branch teaches containment:</text><text x="700" y="1006" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="34" fill="#4E3A28" opacity="0.88">prickles are not hostility; they are</text><text x="700" y="1052" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="34" fill="#4E3A28" opacity="0.88">information about closeness.</text>
+<text x="700" y="1410" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="31" fill="#4E3A28" opacity="0.74">Mood: containment, soft spines, curled safety</text>
+<circle cx="150.0" cy="1740.0" r="30" fill="none" stroke="#7A8A4A" stroke-width="4" opacity="0.55"/><circle cx="700.0" cy="1740.0" r="32" fill="none" stroke="#7A8A4A" stroke-width="4" opacity="0.55"/><path d="M 150.0 1740.0 C 425.0 1680.0, 425.0 1800.0, 700.0 1740.0" fill="none" stroke="#7A8A4A" stroke-width="3" opacity="0.35"/><circle cx="1250.0" cy="1740.0" r="24" fill="none" stroke="#7A8A4A" stroke-width="4" opacity="0.55"/><path d="M 700.0 1740.0 C 975.0 1680.0, 975.0 1800.0, 1250.0 1740.0" fill="none" stroke="#7A8A4A" stroke-width="3" opacity="0.35"/>
+<text x="700" y="1760" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="30" fill="#4E3A28" opacity="0.75">hedgehog  •  boundaries  •  ground lantern</text>
+<text x="700" y="1870" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="24" fill="#4E3A28" opacity="0.50">Hells Branch Living Gallery · v3 Created</text>
+</svg>

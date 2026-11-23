@@ -1,30 +1,21 @@
-# Media — Base Notes: Cedar & Patchouli
+# Base Notes: Cedar & Patchouli
 
-**Status:** volatile (session seed)  
+**Status:** candidate  
 **Type:** educational scent card video + stills  
-**Source session:** Imagine generation (hedgehog library capture)
+**Asset ID:** `38ee6368-5ad1-4a49-947b-b5ed21095ca1`  
+**Duration:** ~6s · 672×448
 
-## Primary asset
+## Files
 
-- **Asset ID:** `38ee6368-5ad1-4a49-947b-b5ed21095ca1`
-- **Format:** video/mp4 · ~6s · 672×448
-- **Content:** Hedgehog with cedar sticks and soil; side panels for Cedar (security / thigmotaxis) and Patchouli (foraging / humic frenzy); bottom copy on hedgehog “catnip” as self-anointing trigger.
+- `base-notes-cedar-patchouli.mp4` — full video
+- `frames/frame_01.png` … `frame_06.png` — 1 fps stills
 
-## Observed frame arc
+## Arc
 
-1. Active self-anointing (tongue, frothing posture)
-2. Peak engagement with scent materials
-3. Transition toward settling
-4. Calm observation / post-froth regulation
+1. Active self-anointing (tongue out, frothing posture)
+2. Peak engagement with cedar sticks / soil
+3–6. Transition to settling → calm observation
 
-## Usage
+## Companion doc
 
-- Reference stills for further Base Notes series cards
-- Storyboard for longer educational clips
-- Visual companion to [`sensory/base-notes-cedar-patchouli.md`](../../sensory/base-notes-cedar-patchouli.md)
-
-## Storage note
-
-Full binary media may live outside this repo (Drive / Imagine library). This folder holds provenance, stills exports, and captions so the library remains portable.
-
-**Do not treat this asset as canon image until stills are curated and licensed/status is marked.**
+[`sensory/base-notes-cedar-patchouli.md`](../../sensory/base-notes-cedar-patchouli.md)
