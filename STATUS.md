@@ -12,10 +12,13 @@
 | Bug Buffet gemale timeline | habitats/bug-buffet-gemale-timeline.md | candidate | Caduceus + hedgehog nap scene |
 | **Media: catnip series reel** | media/catnip-series-reel/ | candidate | 5-card stitch ~30s |
 | Media pack (scent + Caduceus + behavior) | media/ | candidate | Expanded session recovery packs |
+| **Media: resinous pinecone anointing** | media/resinous-pinecone-anointing/ | candidate | still 7de5ab4d… + loop af204966…; Layer 2/Bed 4 |
+| Resin & Frothing Reference Pack | packs/resin-and-frothing-reference-pack.md | candidate | Bed 3 + Bed 4 index |
+| Grounding Archetype bridge | packs/grounding-archetype-bridge-note.md | candidate | maps visuals → Hedgekin doctrines |
 | Drive archive | media/drive-archive/ | volatile | PNGs + containment SVG |
 | Drive chat raw exports | provenance/drive-chats/ | volatile | Full Gemini dumps |
 | Containment notes | habitats/containment.md | placeholder | SVG in media; prose pending |
 
 **Legend:** volatile · candidate · stabilized · canon
 
-Last ledger update: 2026-11-23/24 (hibernation + bug buffet + catnip reel + session recovery merge)
+Last ledger update: 2026-11-23/24 (resinous pinecone af204966… + resin/frothing pack + archetype bridge)

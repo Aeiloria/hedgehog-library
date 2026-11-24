@@ -34,7 +34,8 @@ It is the floor auditor of the Care Ecology.
 | [`sensory/`](sensory/) | Base notes series (cedar & patchouli home/comfort anchor); frothing / anointing registers |
 | [`behaviors/`](behaviors/) | Self-anointing, belly flops, curling, hibernation notes, floor-seeking |
 | [`habitats/`](habitats/) | Sensory garden beds, research bed designs, containment & nest notes |
-| [`media/`](media/) | Image & video assets, storyboards, generation provenance (e.g. base-notes video seed) |
+| [`media/`](media/) | Image & video assets, storyboards, generation provenance (e.g. base-notes video seed, resinous pinecone anointing) |
+| [`packs/`](packs/) | Cross-node reference packs (Resin & Frothing; Grounding Archetype bridge) |
 | [`provenance/`](provenance/) | Drive capture index, chat/session anchors, status of each node |
 | [`STATUS.md`](STATUS.md) | Canon status ledger (volatile / candidate / stabilized / canon) |
 

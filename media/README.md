@@ -39,6 +39,7 @@ Visual and audiovisual assets for the hedgehog library.
 | [tubers-subterranean-treasure/](tubers-subterranean-treasure/) | Kūmara / root goldmine |
 | [garden-smell-tea-companion/](garden-smell-tea-companion/) | Tea companion / garden smell |
 | [session-stills/](session-stills/) | Just chillin still |
+| [resinous-pinecone-anointing/](resinous-pinecone-anointing/) | **Pine resin feast** — Layer 2 / Bed 4 anointing (asset af204966…) |
 | [drive-archive/](drive-archive/) | Drive PNGs + containment SVG |
 
 ## Conventions
