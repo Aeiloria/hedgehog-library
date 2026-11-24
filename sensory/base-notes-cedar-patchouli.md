@@ -52,7 +52,8 @@ This pair is the recommended first base-note blend for research beds, grounding 
 
 Educational video card (Imagine generation session) featuring a hedgehog with tongue out, anointing near cedar sticks and soil, with the two-column scent description.
 
-- Asset provenance recorded under `media/base-notes-cedar-patchouli/`
+- Primary framing card: `media/hedgehog-catnip/` (asset `df91e981-3db2-48f9-bab2-35d114553626`) — full thesis + base-notes panel
+- Companion action cut: `media/base-notes-cedar-patchouli/` (asset `38ee6368-…`)
 - Frames show progression: active frothing → settling → calm observation
 
 ---

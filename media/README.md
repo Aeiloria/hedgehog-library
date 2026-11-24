@@ -7,6 +7,7 @@ Visual and audiovisual assets for the hedgehog library.
 | Folder | Description | Asset |
 |--------|-------------|-------|
 | [base-notes-cedar-patchouli/](base-notes-cedar-patchouli/) | Home & Comfort anchor | `38ee6368-…` |
+| [hedgehog-catnip/](hedgehog-catnip/) | Framing card — not psychoactive, irresistibly primal | `df91e981-…` |
 | [frothing-trigger/](frothing-trigger/) | Floral oil + earthy indoles | `5af5af68-…` |
 | [hedgehog-catnip-map/](hedgehog-catnip-map/) | Full scent map | `a36dc01b-…` |
 | [frenzy-of-scent/](frenzy-of-scent/) | Ritual card + action froth | `a376bfab-…` |

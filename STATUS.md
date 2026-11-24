@@ -9,9 +9,10 @@
 | Base Notes: Cedar & Patchouli | sensory/base-notes-cedar-patchouli.md | candidate | |
 | Hibernation digest | behaviors/hibernation.md | candidate | Drive + Caduceus sleep vault |
 | Bug Buffet gemale | habitats/bug-buffet-gemale-timeline.md | candidate | Caduceus + hedgehog nap scene |
-| Media pack (all scent/habitat/behavior) | media/ | candidate | 19 video series + stills + Drive archive |
+| Media: hedgehog-catnip framing | media/hedgehog-catnip/ | candidate | Asset `df91e981-…` (remote add) |
+| Media pack (scent/habitat/behavior) | media/ | candidate | 20 video series + stills + Drive archive |
 | Drive chat raw exports | provenance/drive-chats/ | volatile | Full Gemini dumps |
 
-**Media series count:** 19 folders under `media/` (educational scent + Caduceus habitat + behavior)
+**Media series count:** 20 folders under `media/` (educational scent + Caduceus habitat + behavior)
 
-Last update: 2026-11-23 (full session recovery + Drive docs)
+Last update: 2026-11-23/24 (full session recovery + Drive docs + catnip framing)

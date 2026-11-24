@@ -68,9 +68,9 @@ See [`protocols/caduceus-hugelkultur.md`](protocols/caduceus-hugelkultur.md).
 
 ## Seed visual (referenced)
 
-**Base Notes: Cedar & Patchouli** — “Home & Comfort” anchor  
-Video asset seed from living generation session (Imagine): educational scent card showing cedar (woody security / thigmotaxis cover) and patchouli (fermented soil / foraging frenzy trigger) as the hedgehog’s version of “catnip.”  
-Provenance and still frames live under [`media/base-notes-cedar-patchouli/`](media/base-notes-cedar-patchouli/).
+**Hedgehog “Catnip” framing card** — *Not psychoactive. Irresistibly primal.*  
+Educational thesis video (Imagine asset `df91e981-…`) defining hedgehog “catnip” as manic self-anointing frenzy (not a high; a ritual of safety, scent, and self), with **Cedar & Patchouli** as the Home & Comfort base-note anchor.  
+Full pack + stills: [`media/hedgehog-catnip/`](media/hedgehog-catnip/). Companion action cut: [`media/base-notes-cedar-patchouli/`](media/base-notes-cedar-patchouli/).
 
 ---
 
