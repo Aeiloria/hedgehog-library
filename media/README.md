@@ -8,6 +8,7 @@ Visual and audiovisual assets for the hedgehog library.
 |--------|-------------|
 | [base-notes-cedar-patchouli/](base-notes-cedar-patchouli/) | Home & Comfort anchor (cedar + patchouli) |
 | [hedgehog-catnip/](hedgehog-catnip/) | Framing card — not psychoactive, irresistibly primal |
+| [catnip-series-reel/](catnip-series-reel/) | **Stitched ~30s reel** — full chapter (framing → base → frothing → map → frenzy) |
 | [frothing-trigger/](frothing-trigger/) | Sweet floral oil + earthy indoles |
 | [hedgehog-catnip-map/](hedgehog-catnip-map/) | Full scent map (base / bergamot / jasmine) |
 | [frenzy-of-scent/](frenzy-of-scent/) | Ritual card + action froth |
@@ -45,4 +46,5 @@ Visual and audiovisual assets for the hedgehog library.
 - One folder per series; README with asset ID where known
 - Frames at 1 fps for decks
 - Full MP4 for motion reference
+- Stitched reels live beside source packages (do not replace them)
 - Status in root [`STATUS.md`](../STATUS.md)

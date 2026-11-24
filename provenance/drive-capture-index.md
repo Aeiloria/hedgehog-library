@@ -30,9 +30,10 @@ Raw inventory of Google Drive hedgehog-related captures (2026). Use this to avoi
 
 ## Next ingestion steps
 
-1. Pull Hibernation guide → `behaviors/hibernation.md`
-2. Pull Bug Buffet scene → `habitats/bug-buffet.md`
+1. ~~Pull Hibernation guide → `behaviors/hibernation.md`~~ done 2026-11-23
+2. ~~Pull Bug Buffet scene → `habitats/bug-buffet.md`~~ done 2026-11-23
 3. Export containment SVG + notes → `habitats/containment.md`
 4. Curate character stills into `media/` with status flags
+5. Optional: promote catnip reel stills for decks
 
 *Do not treat Drive duplicates as separate canon. Deduplicate first.*
