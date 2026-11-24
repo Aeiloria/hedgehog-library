@@ -1,17 +1,10 @@
 # Behaviors
 
-Observable hedgehog / Hedgekin behaviors tracked by this library.
-
-## Priority list (to stabilize)
-
-| Behavior | Status | Notes |
-|----------|--------|-------|
-| Self-anointing / frothing | candidate (via base notes + Caduceus Bed 3) | Full-body pretect-contortion; manic then settle |
-| Belly flops | candidate (Caduceus metrics) | Highest in Floral & Acidic bed |
-| Curling / containment | candidate (archetype) | Regulation, not regression |
-| Floor-seeking | candidate | Level 0 signature |
-| Hibernation / deep sleep vault | placeholder | Drive: “Hedgehog Hibernation: A Winter Survival Guide” |
-| Quill maintenance | candidate | Bed 4 Resin & Cleanse |
-| Startle vs. settle distinction | candidate | Groundfolk correction language |
-
-Add field notes and observational sheets here as they stabilize.
+| Behavior | Status | Path / media |
+|----------|--------|--------------|
+| Self-anointing / frothing | candidate | media/frothing-trigger, frenzy-of-scent, deep-tissue-dip, olfactory-saga-* |
+| Belly flops / leaf roll | candidate | media/rolling-on-leaves |
+| Hibernation / torpor | candidate | hibernation.md |
+| Floor-seeking / curling | candidate | archetypes/hedgehog-grounding.md |
+| Root-plow / tuber dig | candidate | media/tubers-subterranean-treasure |
+| Garden scent recognition | candidate | media/garden-smell-tea-companion, session-stills |
