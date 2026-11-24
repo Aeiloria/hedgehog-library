@@ -26,6 +26,8 @@ Raw inventory of Google Drive hedgehog-related captures (2026). Use this to avoi
 | hedgehog-containment.svg (x2) | Soft containment diagram |
 | hedgehog-containment.md | Companion notes |
 
+| generated_video (20).mp4 · asset df91e981 | Routed → `media/hedgehog-catnip/` |
+
 ## Next ingestion steps
 
 1. Pull Hibernation guide → `behaviors/hibernation.md`

@@ -8,6 +8,7 @@
 | Caduceus Hugelkultur Protocol | protocols/caduceus-hugelkultur.md | candidate | Caduceus Clay / sentient-biome-weaver |
 | Base Notes: Cedar & Patchouli | sensory/base-notes-cedar-patchouli.md | candidate | Educational scent card |
 | **Media: base-notes video + frames** | media/base-notes-cedar-patchouli/ | candidate | Asset `38ee6368-…` + 6 stills |
+| **Media: hedgehog catnip framing** | media/hedgehog-catnip/ | candidate | Asset `df91e981-…` + 6 stills · thesis card |
 | **Media: frothing trigger** | media/frothing-trigger/ | candidate | Asset `5af5af68-…` + 6 stills |
 | **Media: hedgehog catnip map** | media/hedgehog-catnip-map/ | candidate | Asset `a36dc01b-…` + 6 stills |
 | **Media: frenzy of scent** | media/frenzy-of-scent/ | candidate | Asset `a376bfab-…` + 6 stills |
@@ -20,4 +21,4 @@
 
 **Legend:** volatile · candidate · stabilized · canon
 
-Last ledger update: 2026-11-23 (media pack added)
+Last ledger update: 2026-11-23 (hedgehog-catnip framing card routed)
