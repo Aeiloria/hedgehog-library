@@ -15,10 +15,11 @@
 | **Media: rolling on leaves** | media/rolling-on-leaves/ | candidate | Asset `c7996ff4-…` + 6 stills |
 | **Media: just chillin still** | media/session-stills/ | candidate | Asset `669936b5-…` |
 | **Media: Drive archive** | media/drive-archive/ | volatile | hedgehog.png, sunglasses, containment SVG |
+| **Media: Olfactory Saga torn-paper pack** | media/olfactory-saga-torn-paper/ | candidate | 7 original stills + landscape collage (2026-08-08 session) · cedar/patchouli/bergamot/jasmine frothing narrative |
 | Hibernation guide | behaviors/hibernation.md | placeholder | Drive doc not yet ingested |
 | Bug Buffet scene | habitats/bug-buffet-lion-king.md | placeholder | Drive scene docs exist |
 | Containment notes | habitats/containment.md | placeholder | SVG in media; prose pending |
 
 **Legend:** volatile · candidate · stabilized · canon
 
-Last ledger update: 2026-11-23 (hedgehog-catnip framing card routed)
+Last ledger update: 2026-11-23 (olfactory-saga-torn-paper collage + sources routed from Imagine session)

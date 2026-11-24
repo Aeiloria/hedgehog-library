@@ -4,8 +4,8 @@ Visual and audiovisual assets for the hedgehog library.
 
 ## Index
 
-| Folder | Type | Description | Asset IDs |
-|--------|------|-------------|-----------|
+| Folder | Type | Description | Asset IDs / Notes |
+|--------|------|-------------|-------------------|
 | [`base-notes-cedar-patchouli/`](base-notes-cedar-patchouli/) | Educational video + 6 frames | Home & Comfort anchor (cedar + patchouli) | `38ee6368-5ad1-4a49-947b-b5ed21095ca1` |
 | [`hedgehog-catnip/`](hedgehog-catnip/) | Educational video + 6 frames | Framing thesis: not psychoactive, irresistibly primal + cedar/patchouli base notes | `df91e981-3db2-48f9-bab2-35d114553626` |
 | [`frothing-trigger/`](frothing-trigger/) | Educational video + 6 frames | Sweet floral oil + earthy indoles self-anointing frenzy | `5af5af68-a22c-4986-b86b-b381e8d84bf7` |
@@ -14,6 +14,7 @@ Visual and audiovisual assets for the hedgehog library.
 | [`rolling-on-leaves/`](rolling-on-leaves/) | Behavior video + 6 frames | Hedgehogs on leaf mound / rolling & belly-up | `c7996ff4-db02-418a-8afa-ec28214d0d8c` |
 | [`session-stills/`](session-stills/) | Still image | Hedgehog just chillin (garden tea scene) | `669936b5-d2a5-4a93-93d6-083e4faf40b3` |
 | [`drive-archive/`](drive-archive/) | Drive captures | hedgehog.png, sunglasses hedgehog, containment SVG | Drive file IDs in provenance |
+| [`olfactory-saga-torn-paper/`](olfactory-saga-torn-paper/) | Multi-panel stills + collage | A Hedgehog’s Olfactory Saga / Deep-Tissue Dip series (7 stills) composed as landscape torn-paper collage; cedar · patchouli · bergamot · jasmine · frothing | 2026-08-08 Imagine session; collage + sources |
 
 ## Conventions
 
