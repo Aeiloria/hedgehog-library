@@ -42,6 +42,14 @@ Visual and audiovisual assets for the hedgehog library.
 | [resinous-pinecone-anointing/](resinous-pinecone-anointing/) | **Pine resin feast** — Layer 2 / Bed 4 anointing (asset af204966…) |
 | [drive-archive/](drive-archive/) | Drive PNGs + containment SVG |
 
+
+## Bed 3 frothing + teaching (2026-11-23 session)
+
+| Folder | Description |
+|--------|-------------|
+| [mint-foam-frothing-engagement/](mint-foam-frothing-engagement/) | Peak still + 6s mint-foam frothing loop (Bed 3) |
+| [educational-overlays/](educational-overlays/) | Field card + timed educational overlay video |
+
 ## Conventions
 
 - One folder per series; README with asset ID where known

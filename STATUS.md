@@ -15,10 +15,14 @@
 | **Media: resinous pinecone anointing** | media/resinous-pinecone-anointing/ | candidate | still 7de5ab4d… + loop af204966…; Layer 2/Bed 4 |
 | Resin & Frothing Reference Pack | packs/resin-and-frothing-reference-pack.md | candidate | Bed 3 + Bed 4 index |
 | Grounding Archetype bridge | packs/grounding-archetype-bridge-note.md | candidate | maps visuals → Hedgekin doctrines |
+| **Mint-foam frothing engagement** | media/mint-foam-frothing-engagement/ | candidate | Still `80d379a2` + loop `3daee424` · Bed 3 |
+| Educational overlays (Bed 3) | media/educational-overlays/ | candidate | Field card + timed caption video |
+| Sensory: mint foam frothing | sensory/mint-foam-frothing.md | candidate | Bed 3 sensory register |
+| Behavior: self-anointing | behaviors/self-anointing.md | candidate | Frothing ritual notes |
 | Drive archive | media/drive-archive/ | volatile | PNGs + containment SVG |
 | Drive chat raw exports | provenance/drive-chats/ | volatile | Full Gemini dumps |
 | Containment notes | habitats/containment.md | placeholder | SVG in media; prose pending |
 
 **Legend:** volatile · candidate · stabilized · canon
 
-Last ledger update: 2026-11-23/24 (resinous pinecone af204966… + resin/frothing pack + archetype bridge)
+Last ledger update: 2026-11-24 (mint-foam frothing + educational overlays + resinous pinecone + resin/frothing pack + archetype bridge)

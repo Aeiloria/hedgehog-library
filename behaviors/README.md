@@ -4,7 +4,7 @@ Observable hedgehog / Hedgekin behaviors tracked by this library.
 
 | Behavior | Status | Path / media |
 |----------|--------|--------------|
-| Self-anointing / frothing | candidate | media/frothing-trigger, frenzy-of-scent, deep-tissue-dip, olfactory-saga-* |
+| Self-anointing / frothing | candidate | [self-anointing.md](self-anointing.md) · media/mint-foam-frothing-engagement, frothing-trigger, educational-overlays, frenzy-of-scent |
 | Belly flops / leaf roll | candidate | media/rolling-on-leaves |
 | Hibernation / torpor / sleep vault | candidate | [`hibernation.md`](hibernation.md) |
 | Floor-seeking / curling | candidate | archetypes/hedgehog-grounding.md |
